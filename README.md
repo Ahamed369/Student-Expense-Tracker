@@ -1,653 +1,502 @@
 <div align="center">
 
-# 💸 STUDENT EXPENSE TRACKER 💸
+# 💸 STUDENT EXPENSE TRACKER
 
-### ✦ SMART MONEY MANAGEMENT • BUDGET INTELLIGENCE • FINANCIAL ANALYTICS ✦
+### Smart Money Management for Students
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=27&duration=1800&pause=450&color=00E5FF&center=true&vCenter=true&repeat=true&width=1000&height=55&lines=💸+TRACK+EVERY+EXPENSE;💰+CONTROL+EVERY+BUDGET;📊+UNDERSTAND+YOUR+SPENDING;💱+CONVERT+YOUR+MONEY;✨+BUILD+BETTER+FINANCIAL+HABITS" alt="Financial typing animation"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1500&pause=350&color=00FF88&center=true&vCenter=true&repeat=true&width=950&height=45&lines=₹+→+💸+→+📊+→+💰+→+📈;$+€+£+¥+₹+💱+GLOBAL+CURRENCY+ENGINE;JAVA+•+ANDROID+•+SQLITE+•+RETROFIT" alt="Technology typing animation"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=17&duration=1200&pause=300&color=FF4ECD&center=true&vCenter=true&repeat=true&width=900&height=40&lines=RECORD+•+ANALYZE+•+CONTROL+•+SAVE;SMARTER+DATA+→+SMARTER+DECISIONS;YOUR+MONEY+•+YOUR+DATA+•+YOUR+CONTROL" alt="Money typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&repeat=true&width=850&lines=Track+Expenses+%E2%80%A2+Control+Budgets+%E2%80%A2+Understand+Spending;Java+%E2%80%A2+Android+%E2%80%A2+SQLite+%E2%80%A2+Retrofit;Analytics+%E2%80%A2+Currency+Conversion+%E2%80%A2+Smart+Budgeting;Built+by+Mr.Ahamed" alt="Student Expense Tracker typing animation" />
 
 <br/>
 
-![Android](https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/JAVA-FF6D00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Gradle](https://img.shields.io/badge/GRADLE-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-
-![Retrofit](https://img.shields.io/badge/RETROFIT-48B983?style=for-the-badge)
-![Gson](https://img.shields.io/badge/GSON-FFCA28?style=for-the-badge)
-![Material](https://img.shields.io/badge/MATERIAL_UI-6750A4?style=for-the-badge&logo=materialdesign&logoColor=white)
-![MPAndroidChart](https://img.shields.io/badge/MPANDROIDCHART-FF4081?style=for-the-badge)
+[![Android](https://img.shields.io/badge/Android-Student_Expense_Tracker-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
+[![Java](https://img.shields.io/badge/Java-Primary_Language-F89820?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Gradle](https://img.shields.io/badge/Gradle-Build_System-02303A?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org/)
+[![Material Design](https://img.shields.io/badge/Material-UI-6750A4?style=for-the-badge&logo=materialdesign&logoColor=white)](https://m3.material.io/)
 
 <br/>
 
-![Version](https://img.shields.io/badge/VERSION-1.0-8A2BE2?style=flat-square)
-![Platform](https://img.shields.io/badge/PLATFORM-ANDROID-3DDC84?style=flat-square)
-![Min SDK](https://img.shields.io/badge/MIN_SDK-24-00C853?style=flat-square)
-![Target SDK](https://img.shields.io/badge/TARGET_SDK-34-2196F3?style=flat-square)
-![Status](https://img.shields.io/badge/STATUS-COMPLETED-00E676?style=flat-square)
+[![Repository](https://img.shields.io/badge/Repository-Student--Expense--Tracker-181717?style=flat-square&logo=github)](https://github.com/Ahamed369/Student-Expense-Tracker)
+![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square)
+![Min SDK](https://img.shields.io/badge/Min_SDK-24-00C853?style=flat-square)
+![Target SDK](https://img.shields.io/badge/Target_SDK-34-2196F3?style=flat-square)
+![Version](https://img.shields.io/badge/Version-1.0-7C4DFF?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
 
 <br/>
 
-### 💵 💴 💶 💷 💸 💰 📊 📈 💱
-
-> ## RECORD • CONTROL • ANALYZE • CONVERT
->
-> **A modern Android financial-management application designed for smarter student spending.**
+**A modern Android personal-finance application designed to help students record expenses, manage category budgets, analyze spending patterns, and convert LKR into international currencies from one clean mobile interface.**
 
 <br/>
 
-[💸 Expenses](#-expense-engine) •
-[💰 Budgets](#-budget-engine) •
-[📊 Charts](#-financial-visualization-center) •
-[🧠 Architecture](#-system-architecture) •
-[💱 Currency](#-currency-conversion-engine) •
-[🛠 Stack](#-technology-universe) •
-[⚙️ Setup](#️-installation--setup) •
-[🐍 Snake](#-kinetic-contribution-snake) •
+[🚀 Explore Features](#-core-features) •
+[🛠 Tech Stack](#-technology-stack) •
+[🏗 Architecture](#-application-architecture) •
+[📁 Structure](#-project-structure) •
+[⚙️ Installation](#️-installation--setup) •
 [👨‍💻 Developer](#-developer)
 
 </div>
 
 ---
 
-<div align="center">
+## 🌈 PROJECT OVERVIEW
 
-# 💎 FINANCIAL COMMAND CENTER
+Student Expense Tracker is an Android financial-management application built to provide students with a simple way to understand and control their day-to-day spending.
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=20&duration=1300&pause=350&color=FFD700&center=true&vCenter=true&repeat=true&width=1000&height=45&lines=💰+ONE+APP+•+FOUR+FINANCIAL+ENGINES;💸+EXPENSES+•+💰+BUDGETS+•+📊+ANALYTICS+•+💱+CURRENCY;📈+TURNING+FINANCIAL+DATA+INTO+INSIGHT" alt="Financial command center"/>
+Instead of treating expense management as a single list of transactions, the application combines **four major financial functions** inside one Android application:
 
-</div>
+> 💸 **Expense Tracking** → 💰 **Budget Management** → 📊 **Financial Analytics** → 💱 **Currency Conversion**
 
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║                    💸 STUDENT EXPENSE TRACKER                        ║
-║                                                                      ║
-║   ┌────────────┐   ┌────────────┐   ┌────────────┐   ┌───────────┐   ║
-║   │ 💸 EXPENSE │──▶│ 💰 BUDGET │──▶│ 📊 ANALYZE │──▶│ 💱 CONVERT│   ║
-║   └────────────┘   └────────────┘   └────────────┘   └───────────┘   ║
-║                                                                      ║
-║       RECORD           CONTROL          UNDERSTAND        CONVERT     ║
-║                                                                      ║
-║                     YOUR MONEY • YOUR CONTROL                        ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-Student Expense Tracker combines **expense recording**, **budget management**, **financial visualization**, and **currency conversion** inside one Android application.
-
-> **Financial data becomes valuable when it can be recorded clearly, visualized meaningfully, and understood instantly.**
+The application uses a single-activity architecture with multiple fragments and persistent bottom navigation, allowing users to move smoothly between financial tools while maintaining a consistent interface.
 
 ---
 
-<div align="center">
-
-# 💵 MONEY FLOW
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=19&duration=1300&pause=300&color=39FF14&center=true&vCenter=true&repeat=true&width=950&height=45&lines=INCOME+→+SPENDING+→+TRACKING+→+ANALYTICS;DATA+→+INSIGHT+→+CONTROL+→+BETTER+DECISIONS;💰+MAKE+EVERY+RUPEE+VISIBLE" alt="Money flow animation"/>
-
-</div>
-
-```mermaid
-flowchart LR
-    MONEY["💵 MONEY"]
-    EXPENSE["💸 EXPENSE"]
-    RECORD["📝 RECORD"]
-    DATABASE[("🗄️ DATABASE")]
-    ANALYZE["📊 ANALYZE"]
-    BUDGET["💰 BUDGET"]
-    DECISION["🧠 DECISION"]
-    CONTROL["📈 CONTROL"]
-
-    MONEY --> EXPENSE
-    EXPENSE --> RECORD
-    RECORD --> DATABASE
-    DATABASE --> ANALYZE
-    ANALYZE --> BUDGET
-    BUDGET --> DECISION
-    DECISION --> CONTROL
-```
-
----
-
-# ⚡ CORE FEATURE UNIVERSE
+## ✨ CORE FEATURES
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-## 💸 Expense Engine
+### 💸 Expense Management
 
-**Capture everyday spending.**
-
-- Add new expenses
-- Record transaction titles
-- Enter monetary values
-- Categorize transactions
-- Select transaction dates
+- Add daily expenses
+- Record expense title
+- Enter amount in LKR
+- Select expense category
+- Choose transaction date
 - Add optional notes
-- Display expense history
-- RecyclerView-based lists
-- SQLite persistence
+- Display transactions using RecyclerView
+- Organize personal spending records
 
 </td>
-
 <td width="50%" valign="top">
 
-## 💰 Budget Engine
+### 💰 Budget Management
 
-**Control spending before it becomes a problem.**
-
-- Create category budgets
-- Calculate spending totals
-- Calculate remaining balance
-- Measure budget consumption
-- Percentage indicators
-- Visual progress tracking
-- Warning thresholds
-- Category-based monitoring
+- Create category-based budgets
+- Monitor total spending
+- Calculate remaining balances
+- Visualize budget consumption
+- Percentage-based progress indicators
+- Color-coded spending thresholds
+- Identify over-budget categories
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
-## 📊 Analytics Engine
+### 📊 Spending Analytics
 
-**Transform transactions into visual information.**
-
-- Pie-chart analytics
-- Bar-chart analytics
-- Category comparisons
-- Weekly analysis
-- Monthly analysis
-- All-time analysis
-- Spending summaries
-- MPAndroidChart integration
+- Visual financial summaries
+- Category-based expenditure analysis
+- Pie chart visualization
+- Bar chart visualization
+- Weekly spending filter
+- Monthly spending filter
+- All-time spending analysis
 
 </td>
-
 <td width="50%" valign="top">
 
-## 💱 Currency Engine
+### 💱 Currency Conversion
 
-**Convert financial values internationally.**
-
-- LKR-based input
-- International currencies
-- Exchange-rate retrieval
-- Country information
-- Currency names
-- Currency codes
-- Retrofit networking
-- JSON processing with Gson
+- Enter an amount in LKR
+- Convert into international currencies
+- Retrieve exchange-rate information
+- Display country information
+- Show currency codes and names
+- Country flag representation
+- Offline/cached-rate support logic
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-<div align="center">
+## 🎯 BUDGET STATUS SYSTEM
 
-# 🎨 FINANCIAL ENGINE STATUS
-
-![Expense](https://img.shields.io/badge/💸_EXPENSE_ENGINE-ONLINE-00E5FF?style=for-the-badge)
-![Budget](https://img.shields.io/badge/💰_BUDGET_ENGINE-ONLINE-00E676?style=for-the-badge)
-
-![Analytics](https://img.shields.io/badge/📊_ANALYTICS_ENGINE-ONLINE-D500F9?style=for-the-badge)
-![Currency](https://img.shields.io/badge/💱_CURRENCY_ENGINE-ONLINE-FF6D00?style=for-the-badge)
-
-![Database](https://img.shields.io/badge/🗄️_DATABASE-ONLINE-2979FF?style=for-the-badge)
-![Network](https://img.shields.io/badge/🌐_NETWORK-ONLINE-FF1744?style=for-the-badge)
-
-</div>
-
----
-
-# 📊 FINANCIAL VISUALIZATION CENTER
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=19&duration=1300&pause=350&color=00E5FF&center=true&vCenter=true&repeat=true&width=950&height=45&lines=🥧+PIE+CHART+ANALYTICS;📊+BAR+CHART+COMPARISONS;📈+TREND+VISUALIZATION;💰+BUDGET+VS+SPENDING" alt="Analytics typing"/>
-
-</div>
-
-## 🥧 Spending Distribution — Pie Chart
-
-```mermaid
-pie showData
-    title Example Category Spending Distribution
-    "Food" : 35
-    "Transport" : 25
-    "Education" : 18
-    "Shopping" : 12
-    "Other" : 10
-```
-
-> The values above demonstrate the type of category distribution supported by the analytics module. They are illustrative rather than actual user financial records.
-
----
-
-## 📊 Category Spending — Bar Chart
-
-```mermaid
-xychart-beta
-    title "Example Category Spending Comparison"
-    x-axis ["Food", "Transport", "Education", "Shopping", "Other"]
-    y-axis "Relative Spending" 0 --> 100
-    bar [82, 63, 48, 37, 29]
-```
-
----
-
-## 📈 Weekly Spending — Line Chart
-
-```mermaid
-xychart-beta
-    title "Example Weekly Expense Trend"
-    x-axis ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
-    y-axis "Relative Spending" 0 --> 100
-    line [24, 38, 31, 57, 45, 79, 52]
-```
-
----
-
-## 💰 Budget vs Spending
-
-```mermaid
-xychart-beta
-    title "Example Budget Utilization"
-    x-axis ["Food", "Transport", "Education", "Shopping"]
-    y-axis "Relative Value" 0 --> 100
-    bar [90, 75, 70, 55]
-    line [72, 61, 43, 51]
-```
-
----
-
-# 🎯 BUDGET INTELLIGENCE
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=18&duration=1300&pause=300&color=FFD700&center=true&vCenter=true&repeat=true&width=950&height=45&lines=💰+SET+THE+LIMIT;📊+TRACK+THE+PROGRESS;⚠️+DETECT+OVERSPENDING;✨+STAY+IN+CONTROL" alt="Budget typing"/>
-
-</div>
+The budget tracker uses visual thresholds to make financial status easier to understand.
 
 ```text
-0%                                                               100%
-│                                                                   │
-▼                                                                   ▼
+0% ───────────────────────────────────────────────────────► 100%
 
-🟢 SAFE                      🟠 CAUTION                       🔴 WARNING
-████████░░░░░░░░░░░░         ███████████████░░░░░           ████████████████████
-
-< 60%                         60% – 79%                       ≥ 80%
-
-   │                               │                              │
-   ▼                               ▼                              ▼
-ON TRACK                       WATCH SPENDING                 TAKE ACTION
+🟢 SAFE                     🟠 CAUTION                    🔴 WARNING
+  < 60%                      60% – 79%                     ≥ 80%
 ```
 
-| Budget Usage | Status | Meaning |
+| Spending Level | Status | Meaning |
 |:---:|:---:|:---|
-| **Below 60%** | 🟢 SAFE | Spending remains comfortably within budget |
-| **60–79%** | 🟠 CAUTION | Spending is approaching the category limit |
-| **80%+** | 🔴 WARNING | Budget is close to or beyond its limit |
+| `< 60%` | 🟢 On Track | Spending remains within a comfortable range |
+| `60% – 79%` | 🟠 Caution | Budget usage is becoming significant |
+| `≥ 80%` | 🔴 Warning | Spending is approaching or exceeding the limit |
+
+The progress bar and percentage indicators update according to budget usage.
 
 ---
 
-# 💹 FINANCIAL DECISION PIPELINE
-
-```mermaid
-flowchart LR
-    A["💸 Transaction"]
-    B["🗄️ Store"]
-    C["🏷️ Categorize"]
-    D["🧮 Calculate"]
-    E["📊 Visualize"]
-    F["💰 Compare Budget"]
-    G["⚠️ Detect Risk"]
-    H["🧠 Financial Insight"]
-
-    A --> B
-    B --> C
-    C --> D
-    D --> E
-    E --> F
-    F --> G
-    G --> H
-```
-
----
-
-# 🧠 SYSTEM ARCHITECTURE
-
-```mermaid
-flowchart TB
-
-    A["📱 MainActivity"]
-    B["🧭 Bottom Navigation"]
-
-    E["💸 ExpenseFragment"]
-    BU["💰 BudgetFragment"]
-    AN["📊 AnalyticsFragment"]
-    C["💱 CurrencyFragment"]
-
-    DB["🗄️ DatabaseHelper / SQLite"]
-    M["📦 Models"]
-    AD["🧩 Adapters"]
-    U["🔧 CategoryUtils"]
-
-    API["🌐 ApiClient"]
-    ER["💱 ExchangeRateService"]
-    RC["🌍 RestCountriesService"]
-
-    A --> B
-
-    B --> E
-    B --> BU
-    B --> AN
-    B --> C
-
-    E --> DB
-    BU --> DB
-    AN --> DB
-
-    DB --> M
-    M --> AD
-
-    E --> U
-    BU --> U
-
-    C --> API
-    API --> ER
-    API --> RC
-
-    ER --> C
-    RC --> C
-```
-
----
-
-# 🧬 APPLICATION DATA FLOW
-
-```mermaid
-flowchart LR
-
-    USER["👤 User"]
-    UI["📱 Android UI"]
-    FRAGMENT["🧩 Fragment Layer"]
-    LOCAL["🗄️ SQLite"]
-    NETWORK["🌐 Retrofit"]
-    JSON["📄 JSON / Gson"]
-    MODEL["📦 Models"]
-    ADAPTER["🔄 Adapters"]
-    DISPLAY["📊 RecyclerView / Charts"]
-
-    USER --> UI
-    UI --> FRAGMENT
-
-    FRAGMENT --> LOCAL
-    FRAGMENT --> NETWORK
-
-    NETWORK --> JSON
-
-    LOCAL --> MODEL
-    JSON --> MODEL
-
-    MODEL --> ADAPTER
-    ADAPTER --> DISPLAY
-
-    DISPLAY --> USER
-```
-
----
-
-# 🧭 APPLICATION NAVIGATION
-
-```mermaid
-flowchart TD
-
-    START(["📱 Application Start"])
-    MAIN["MainActivity"]
-    NAV["Bottom Navigation"]
-
-    EXP["💸 Expenses"]
-    BUD["💰 Budget"]
-    ANA["📊 Analytics"]
-    CUR["💱 Currency"]
-
-    START --> MAIN
-    MAIN --> NAV
-
-    NAV --> EXP
-    NAV --> BUD
-    NAV --> ANA
-    NAV --> CUR
-
-    EXP -->|"Record"| DB1["🗄️ SQLite"]
-    BUD -->|"Monitor"| DB1
-    ANA -->|"Analyze"| DB1
-
-    CUR -->|"Request"| API1["🌐 REST APIs"]
-```
-
----
-
-# 🗄️ DATA MODEL MAP
-
-```mermaid
-flowchart LR
-
-    DB[("🗄️ SQLite Database")]
-
-    E["💸 Expense Model"]
-    B["💰 Budget Model"]
-    C["💱 CurrencyResult Model"]
-
-    EA["ExpenseAdapter"]
-    BA["BudgetAdapter"]
-    CA["CurrencyAdapter"]
-
-    RV["📱 RecyclerView"]
-
-    DB --> E
-    DB --> B
-
-    E --> EA
-    B --> BA
-    C --> CA
-
-    EA --> RV
-    BA --> RV
-    CA --> RV
-```
-
----
-
-# 💱 CURRENCY CONVERSION ENGINE
+## 🛠 TECHNOLOGY STACK
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=19&duration=1200&pause=300&color=00FF88&center=true&vCenter=true&repeat=true&width=950&height=45&lines=🇱🇰+LKR+→+USD+💵;🇱🇰+LKR+→+EUR+💶;🇱🇰+LKR+→+GBP+💷;🇱🇰+LKR+→+GLOBAL+CURRENCIES+🌍" alt="Currency conversion typing"/>
-
-### 💵 USD • 💶 EUR • 💷 GBP • 💴 JPY • ₹ INR • 🌍 MORE
-
-</div>
-
-```mermaid
-sequenceDiagram
-
-    actor User
-
-    participant CF as CurrencyFragment
-    participant AC as ApiClient
-    participant ER as ExchangeRateService
-    participant RC as RestCountriesService
-    participant G as Gson
-    participant UI as CurrencyAdapter
-
-    User->>CF: Enter LKR amount
-    CF->>AC: Request conversion data
-    AC->>ER: Fetch exchange rates
-    AC->>RC: Fetch country information
-    ER-->>AC: Exchange-rate response
-    RC-->>AC: Country/currency response
-    AC->>G: Parse JSON
-    G-->>CF: Structured result
-    CF->>UI: Update results
-    UI-->>User: Display converted currencies
-```
-
----
-
-# 🌍 GLOBAL MONEY PIPELINE
-
-```mermaid
-flowchart LR
-
-    LKR["🇱🇰 LKR"]
-    ENGINE["💱 Conversion Engine"]
-
-    USD["🇺🇸 USD"]
-    EUR["🇪🇺 EUR"]
-    GBP["🇬🇧 GBP"]
-    JPY["🇯🇵 JPY"]
-    INR["🇮🇳 INR"]
-    OTHER["🌍 Other"]
-
-    LKR --> ENGINE
-
-    ENGINE --> USD
-    ENGINE --> EUR
-    ENGINE --> GBP
-    ENGINE --> JPY
-    ENGINE --> INR
-    ENGINE --> OTHER
-```
-
----
-
-# 🛠 TECHNOLOGY UNIVERSE
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=18&duration=1300&pause=350&color=7C4DFF&center=true&vCenter=true&repeat=true&width=950&height=45&lines=ANDROID+•+JAVA+•+SQLITE;RETROFIT+•+OKHTTP+•+GSON;MATERIAL+UI+•+MPANDROIDCHART" alt="Technology animation"/>
-
-### ☕ CORE DEVELOPMENT
+### Core Development
 
 ![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge)
+![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
-### 🎨 INTERFACE
+### Android Components
 
 ![AndroidX](https://img.shields.io/badge/AndroidX-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Material](https://img.shields.io/badge/Material_Components-6750A4?style=for-the-badge&logo=materialdesign&logoColor=white)
-![RecyclerView](https://img.shields.io/badge/RecyclerView-2196F3?style=for-the-badge)
-![Fragments](https://img.shields.io/badge/Fragments-9C27B0?style=for-the-badge)
+![Material Design](https://img.shields.io/badge/Material_Design-6750A4?style=for-the-badge&logo=materialdesign&logoColor=white)
+![RecyclerView](https://img.shields.io/badge/RecyclerView-1976D2?style=for-the-badge&logo=android&logoColor=white)
+![Fragments](https://img.shields.io/badge/Fragments-7B1FA2?style=for-the-badge&logo=android&logoColor=white)
 
-### 🗄️ DATA & NETWORKING
+### Data • Networking • Visualization
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge)
-![OkHttp](https://img.shields.io/badge/OkHttp-111111?style=for-the-badge)
+![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white)
+![OkHttp](https://img.shields.io/badge/OkHttp-000000?style=for-the-badge)
 ![Gson](https://img.shields.io/badge/Gson-FFCA28?style=for-the-badge)
-
-### 📊 VISUALIZATION
-
-![MPAndroidChart](https://img.shields.io/badge/MPAndroidChart-FF4081?style=for-the-badge)
-![Pie](https://img.shields.io/badge/PIE_CHARTS-D500F9?style=for-the-badge)
-![Bar](https://img.shields.io/badge/BAR_CHARTS-00B0FF?style=for-the-badge)
-![Analytics](https://img.shields.io/badge/FINANCIAL_ANALYTICS-00E676?style=for-the-badge)
+![MPAndroidChart](https://img.shields.io/badge/MPAndroidChart-FF4081?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 </div>
 
 ---
 
-# ⚙️ TECHNOLOGY RESPONSIBILITIES
+## 🧩 TECHNOLOGY BREAKDOWN
 
-| Technology | Purpose |
+| Technology | Role |
 |---|---|
-| ☕ **Java** | Core Android application logic |
-| 📱 **Android SDK** | Mobile application platform |
-| 🎨 **XML** | Interface layouts and resources |
-| 🧩 **AndroidX** | Android application components |
-| ✨ **Material Components** | Modern interface elements |
-| 📜 **RecyclerView** | Dynamic financial lists |
-| 🗄️ **SQLite** | Local financial-data persistence |
-| 🌐 **Retrofit** | REST API communication |
-| 🔌 **OkHttp** | HTTP networking |
-| 🧾 **Gson** | JSON parsing |
-| 📊 **MPAndroidChart** | Pie and bar financial visualization |
-| ⚙️ **Gradle** | Build and dependency management |
+| **Java** | Main application programming language |
+| **XML** | Android interface layouts and resources |
+| **Android SDK** | Core mobile application platform |
+| **AndroidX** | Modern Android support components |
+| **Material Components** | Interface elements and navigation |
+| **RecyclerView** | Efficient dynamic list rendering |
+| **SQLite** | Local financial-data persistence |
+| **Retrofit 2** | REST API communication |
+| **OkHttp** | HTTP networking and request logging |
+| **Gson** | JSON response parsing |
+| **MPAndroidChart** | Pie and bar financial visualizations |
+| **Gradle** | Dependency and build management |
 
 ---
 
-# 📁 PROJECT STRUCTURE
+## 🏗 APPLICATION ARCHITECTURE
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                    STUDENT EXPENSE TRACKER                  │
+├─────────────────────────────────────────────────────────────┤
+│                         MainActivity                        │
+│                             │                               │
+│                  BottomNavigationView                       │
+│                             │                               │
+│          ┌──────────────────┼──────────────────┐            │
+│          │                  │                  │            │
+│          ▼                  ▼                  ▼            │
+│   ExpenseFragment     BudgetFragment    AnalyticsFragment   │
+│          │                  │                  │            │
+│          └──────────────────┼──────────────────┘            │
+│                             │                               │
+│                             ▼                               │
+│                     CurrencyFragment                        │
+├─────────────────────────────────────────────────────────────┤
+│                     APPLICATION LOGIC                       │
+│                                                             │
+│   Adapters ───── Models ───── Utilities ───── Database      │
+│                                         │                   │
+│                                         ▼                   │
+│                                  Network Services           │
+│                                         │                   │
+│                                  Retrofit / APIs            │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🔄 APPLICATION FLOW
+
+```text
+                         ┌──────────────────────┐
+                         │     Launch App       │
+                         └──────────┬───────────┘
+                                    │
+                                    ▼
+                         ┌──────────────────────┐
+                         │     MainActivity     │
+                         └──────────┬───────────┘
+                                    │
+                                    ▼
+                      ┌────────────────────────────┐
+                      │     Bottom Navigation      │
+                      └─────────────┬──────────────┘
+                                    │
+          ┌─────────────────────────┼─────────────────────────┐
+          │                         │                         │
+          ▼                         ▼                         ▼
+   ┌─────────────┐           ┌─────────────┐          ┌─────────────┐
+   │  Expenses   │           │   Budget    │          │  Analytics  │
+   └──────┬──────┘           └──────┬──────┘          └──────┬──────┘
+          │                         │                         │
+          ▼                         ▼                         ▼
+    Add / Review              Set / Monitor              Analyze
+      Expenses                  Budgets                  Spending
+          │                         │                         │
+          └─────────────────────────┼─────────────────────────┘
+                                    │
+                                    ▼
+                            ┌──────────────┐
+                            │   Currency   │
+                            │  Converter   │
+                            └──────┬───────┘
+                                   │
+                                   ▼
+                          Exchange Rate APIs
+```
+
+---
+
+## 🗃 DATA FLOW
+
+```text
+USER INPUT
+    │
+    ▼
+┌───────────────────┐
+│ Android UI / XML  │
+└─────────┬─────────┘
+          │
+          ▼
+┌───────────────────┐
+│ Fragment / Logic  │
+└─────────┬─────────┘
+          │
+     ┌────┴────┐
+     │         │
+     ▼         ▼
+┌─────────┐  ┌───────────────┐
+│ SQLite  │  │ Retrofit APIs │
+└────┬────┘  └───────┬───────┘
+     │               │
+     ▼               ▼
+┌──────────┐   ┌─────────────┐
+│ Models   │   │ JSON / Gson │
+└────┬─────┘   └──────┬──────┘
+     │                │
+     └────────┬───────┘
+              ▼
+      ┌───────────────┐
+      │ RecyclerViews │
+      │ Charts / UI   │
+      └───────────────┘
+```
+
+---
+
+## 🧠 MAJOR APPLICATION MODULES
+
+### 01 — Expense Module
+
+```text
+ExpenseFragment
+      │
+      ├── Add Expense Dialog
+      │      ├── Title
+      │      ├── Amount
+      │      ├── Category
+      │      ├── Date
+      │      └── Notes
+      │
+      ├── DatabaseHelper
+      │
+      └── ExpenseAdapter
+             │
+             └── RecyclerView
+```
+
+### 02 — Budget Module
+
+```text
+BudgetFragment
+      │
+      ├── Set Budget
+      ├── Calculate Spent Amount
+      ├── Calculate Remaining Amount
+      ├── Calculate Usage Percentage
+      └── BudgetAdapter
+             │
+             └── Progress Visualization
+```
+
+### 03 — Analytics Module
+
+```text
+AnalyticsFragment
+      │
+      ├── Weekly Filter
+      ├── Monthly Filter
+      ├── All-Time Filter
+      │
+      ├── PieChart
+      └── BarChart
+             │
+             └── MPAndroidChart
+```
+
+### 04 — Currency Module
+
+```text
+CurrencyFragment
+      │
+      ├── LKR Input
+      ├── Retrofit Client
+      │      ├── ExchangeRateService
+      │      └── RestCountriesService
+      │
+      ├── CurrencyResult
+      └── CurrencyAdapter
+             │
+             └── Converted Results
+```
+
+---
+
+## 💱 API INTEGRATION
+
+The currency module uses Retrofit-based network services.
+
+### Exchange-Rate Service
+
+Used to retrieve exchange-rate data for converting Sri Lankan Rupees into supported international currencies.
+
+### Country Information Service
+
+Used to retrieve supporting country/currency information for the conversion interface.
+
+```text
+LKR Amount
+    │
+    ▼
+CurrencyFragment
+    │
+    ▼
+ApiClient
+    │
+    ├──────────────► ExchangeRateService
+    │
+    └──────────────► RestCountriesService
+                         │
+                         ▼
+                    JSON Response
+                         │
+                         ▼
+                        Gson
+                         │
+                         ▼
+                   CurrencyResult
+                         │
+                         ▼
+                   CurrencyAdapter
+```
+
+---
+
+## 📊 ANALYTICS ENGINE
+
+The analytics section provides graphical representations of expense information using **MPAndroidChart**.
+
+### Pie Chart
+
+Designed to communicate category-based spending distribution.
+
+```text
+           CATEGORY SPENDING
+                  │
+       ┌──────────┼──────────┐
+       │          │          │
+       ▼          ▼          ▼
+      Food     Transport    Other
+       │          │          │
+       └──────────┼──────────┘
+                  ▼
+               PieChart
+```
+
+### Bar Chart
+
+Designed to provide comparative spending information in an easy-to-read graphical format.
+
+Available filters include:
+
+```text
+┌─────────────┬─────────────┬─────────────┐
+│  This Week  │ This Month  │  All Time   │
+└─────────────┴─────────────┴─────────────┘
+```
+
+---
+
+## 🗂 PROJECT STRUCTURE
 
 ```text
 StudentExpenseTracker/
 │
-├── 📱 app/
+├── app/
 │   ├── build.gradle
 │   ├── proguard-rules.pro
 │   │
-│   └── src/main/
-│       │
-│       ├── AndroidManifest.xml
-│       │
-│       ├── ☕ java/com/studentexpensetracker/
-│       │   │
-│       │   ├── MainActivity.java
-│       │   │
-│       │   ├── adapters/
-│       │   │   ├── BudgetAdapter.java
-│       │   │   ├── CurrencyAdapter.java
-│       │   │   └── ExpenseAdapter.java
-│       │   │
-│       │   ├── api/
-│       │   │   ├── ApiClient.java
-│       │   │   ├── ExchangeRateService.java
-│       │   │   └── RestCountriesService.java
-│       │   │
-│       │   ├── database/
-│       │   │   └── DatabaseHelper.java
-│       │   │
-│       │   ├── fragments/
-│       │   │   ├── AnalyticsFragment.java
-│       │   │   ├── BudgetFragment.java
-│       │   │   ├── CurrencyFragment.java
-│       │   │   └── ExpenseFragment.java
-│       │   │
-│       │   ├── models/
-│       │   │   ├── Budget.java
-│       │   │   ├── CurrencyResult.java
-│       │   │   └── Expense.java
-│       │   │
-│       │   └── utils/
-│       │       └── CategoryUtils.java
-│       │
-│       └── 🎨 res/
-│           ├── color/
-│           ├── drawable/
-│           ├── layout/
-│           ├── menu/
-│           ├── mipmap-*/
-│           └── values/
+│   └── src/
+│       └── main/
+│           │
+│           ├── AndroidManifest.xml
+│           │
+│           ├── java/
+│           │   └── com/
+│           │       └── studentexpensetracker/
+│           │           │
+│           │           ├── MainActivity.java
+│           │           │
+│           │           ├── adapters/
+│           │           │   ├── BudgetAdapter.java
+│           │           │   ├── CurrencyAdapter.java
+│           │           │   └── ExpenseAdapter.java
+│           │           │
+│           │           ├── api/
+│           │           │   ├── ApiClient.java
+│           │           │   ├── ExchangeRateService.java
+│           │           │   └── RestCountriesService.java
+│           │           │
+│           │           ├── database/
+│           │           │   └── DatabaseHelper.java
+│           │           │
+│           │           ├── fragments/
+│           │           │   ├── AnalyticsFragment.java
+│           │           │   ├── BudgetFragment.java
+│           │           │   ├── CurrencyFragment.java
+│           │           │   └── ExpenseFragment.java
+│           │           │
+│           │           ├── models/
+│           │           │   ├── Budget.java
+│           │           │   ├── CurrencyResult.java
+│           │           │   └── Expense.java
+│           │           │
+│           │           └── utils/
+│           │               └── CategoryUtils.java
+│           │
+│           └── res/
+│               ├── color/
+│               ├── drawable/
+│               ├── layout/
+│               ├── menu/
+│               ├── mipmap-*/
+│               └── values/
 │
-├── ⚙️ gradle/
+├── gradle/
 │   └── wrapper/
 │
 ├── .gitignore
@@ -660,210 +509,104 @@ StudentExpenseTracker/
 
 ---
 
-# 🗺️ DEVELOPMENT TIMELINE
+## 🎨 UI / UX DESIGN
 
-```mermaid
-timeline
-    title Student Expense Tracker Development
-    Planning
-        : Requirements
-        : Application structure
-    Interface
-        : XML layouts
-        : Material UI
-        : Bottom navigation
-    Expense Module
-        : Expense recording
-        : SQLite persistence
-    Budget Module
-        : Category budgets
-        : Budget calculations
-        : Visual warnings
-    Analytics
-        : Pie charts
-        : Bar charts
-        : Time filters
-    Currency
-        : Retrofit integration
-        : Exchange-rate service
-        : Country information
-    Finalization
-        : Testing
-        : Repository preparation
-        : GitHub release
-```
+The application follows a clean mobile-first design with emphasis on clarity and fast navigation.
 
----
+### Design Principles
 
-# 🖥️ FINANCIAL SYSTEM TERMINAL
+- Persistent bottom navigation
+- Clear financial information hierarchy
+- Card-based content organization
+- Recognizable financial categories
+- Color-coded financial states
+- Immediate visual feedback
+- Readable monetary values
+- Consistent layouts
+- Minimal navigation depth
+- Responsive Android interface
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=900&pause=250&color=39FF14&center=true&vCenter=true&repeat=true&width=1000&height=45&lines=%3E+loading+expense.engine...OK;%3E+loading+budget.engine...OK;%3E+loading+analytics.engine...OK;%3E+loading+currency.engine...OK;%3E+financial.system...ONLINE" alt="Terminal animation"/>
-
-</div>
+### Navigation
 
 ```text
-╔══════════════════════════════════════════════════════════════════════╗
-║ AHAMED@STUDENT-EXPENSE-TRACKER:~$ financial-system --status         ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║ 💸 Expense Engine       ████████████████████      ONLINE             ║
-║ 💰 Budget Engine        ████████████████████      ONLINE             ║
-║ 📊 Analytics Engine     ████████████████████      ONLINE             ║
-║ 💱 Currency Engine      ████████████████████      ONLINE             ║
-║ 🗄️ SQLite Storage       ████████████████████      ONLINE             ║
-║ 🌐 Retrofit Network     ████████████████████      ONLINE             ║
-║                                                                      ║
-║ FINANCIAL SYSTEM STATUS                       ● OPERATIONAL           ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│                 APPLICATION CONTENT                     │
+│                                                         │
+│                                                         │
+├──────────────┬──────────────┬──────────────┬─────────────┤
+│      💸      │      💰      │      📊      │      💱     │
+│   Expenses   │    Budget    │  Analytics   │  Currency   │
+└──────────────┴──────────────┴──────────────┴─────────────┘
 ```
 
 ---
 
-# 🎮 MONEY QUEST
+## ⚙️ SYSTEM REQUIREMENTS
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&duration=1200&pause=400&color=FFD700&center=true&vCenter=true&repeat=true&width=950&height=45&lines=💰+MONEY+QUEST;💸+TRACK+THE+EXPENSE;📊+UNLOCK+ANALYTICS;🏆+MASTER+YOUR+BUDGET" alt="Money Quest animation"/>
-
-</div>
-
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                        💰 MONEY QUEST                               ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║ PLAYER       STUDENT                                                 ║
-║ MISSION      MASTER PERSONAL FINANCE                                 ║
-║                                                                      ║
-║ QUEST 01     💸 Record Expenses                           [✓]         ║
-║ QUEST 02     💰 Control Budgets                            [✓]         ║
-║ QUEST 03     🥧 Unlock Pie Analytics                      [✓]         ║
-║ QUEST 04     📊 Unlock Bar Analytics                      [✓]         ║
-║ QUEST 05     📈 Understand Spending Trends                [✓]         ║
-║ QUEST 06     💱 Activate Currency Engine                  [✓]         ║
-║                                                                      ║
-║                  ★ ACHIEVEMENT UNLOCKED ★                            ║
-║                                                                      ║
-║                    💎 SMART MONEY MANAGER 💎                         ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+| Requirement | Configuration |
+|---|---|
+| Android Studio | Recommended latest stable version |
+| Android SDK | Compile SDK 34 |
+| Minimum Android SDK | API 24 |
+| Target Android SDK | API 34 |
+| Java Compatibility | Java 8 source/target compatibility |
+| Gradle Wrapper | Included |
+| Internet | Required for live currency API functionality |
 
 ---
 
-# 🔄 DEVELOPMENT LOOP
+## ⚙️ INSTALLATION & SETUP
 
-```mermaid
-flowchart LR
-
-    IDEA["💡 IDEA"]
-    CODE["💻 CODE"]
-    BUILD["⚙️ BUILD"]
-    TEST["🧪 TEST"]
-    COMMIT["📦 COMMIT"]
-    PUSH["☁️ PUSH"]
-    IMPROVE["✨ IMPROVE"]
-
-    IDEA --> CODE
-    CODE --> BUILD
-    BUILD --> TEST
-    TEST --> COMMIT
-    COMMIT --> PUSH
-    PUSH --> IMPROVE
-    IMPROVE --> CODE
-```
-
----
-
-# 🔮 FUTURE EVOLUTION
-
-```mermaid
-flowchart TB
-
-    CURRENT["💸 Student Expense Tracker v1.0"]
-
-    AUTH["🔐 Authentication"]
-    CLOUD["☁️ Cloud Sync"]
-    EXPORT["📄 PDF / CSV Export"]
-    RECUR["🔁 Recurring Expenses"]
-    SAVINGS["🎯 Savings Goals"]
-    INCOME["💵 Income Tracking"]
-    DARK["🌙 Enhanced Dark Mode"]
-    ALERTS["🔔 Spending Alerts"]
-    BIO["🔒 Biometric Lock"]
-    WIDGET["📱 Home Widgets"]
-    SMART["🤖 Smart Categorization"]
-
-    CURRENT --> AUTH
-    CURRENT --> CLOUD
-    CURRENT --> EXPORT
-    CURRENT --> RECUR
-    CURRENT --> SAVINGS
-    CURRENT --> INCOME
-    CURRENT --> DARK
-    CURRENT --> ALERTS
-    CURRENT --> BIO
-    CURRENT --> WIDGET
-    CURRENT --> SMART
-```
-
----
-
-# ⚙️ INSTALLATION & SETUP
-
-## 1️⃣ Clone the Repository
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/Ahamed369/Student-Expense-Tracker.git
 ```
 
-## 2️⃣ Enter the Project
+### 2. Enter the Project Directory
 
 ```bash
 cd Student-Expense-Tracker
 ```
 
-## 3️⃣ Open Android Studio
+### 3. Open in Android Studio
+
+Open **Android Studio** and select:
 
 ```text
-Android Studio
-      │
-      ▼
-    File
-      │
-      ▼
-     Open
-      │
-      ▼
-Student-Expense-Tracker
+File → Open → Student-Expense-Tracker
 ```
 
-## 4️⃣ Gradle Synchronization
+### 4. Allow Gradle to Sync
 
-Allow Android Studio to synchronize the project and download the required dependencies.
+Android Studio should detect the Gradle configuration automatically.
 
-## 5️⃣ Choose a Device
+Wait until dependency synchronization completes.
+
+### 5. Select a Device
+
+Use either:
 
 ```text
 Android Emulator
-       │
-      OR
-       │
+        OR
 Physical Android Device
 ```
 
-## 6️⃣ Run the Application
+### 6. Run the Application
+
+Press:
 
 ```text
 ▶ Run 'app'
 ```
 
+The application should build and launch on the selected Android device.
+
 ---
 
-# 🔨 BUILD FROM TERMINAL
+## 🧪 BUILD FROM TERMINAL
 
 ### Windows
 
@@ -879,7 +622,29 @@ Physical Android Device
 
 ---
 
-# 📦 CORE DEPENDENCIES
+## 🔐 SECURITY & REPOSITORY HYGIENE
+
+The repository `.gitignore` excludes common local, generated, and sensitive Android development files, including:
+
+```text
+.gradle/
+.idea/
+build/
+**/build/
+local.properties
+*.apk
+*.aab
+*.jks
+*.keystore
+.vscode/
+*.log
+```
+
+This keeps machine-specific configuration, generated build output, signing files, and temporary development files outside version control.
+
+---
+
+## 📦 IMPORTANT DEPENDENCIES
 
 ```gradle
 implementation 'androidx.appcompat:appcompat:1.6.1'
@@ -902,206 +667,252 @@ implementation 'com.google.code.gson:gson:2.10.1'
 
 ---
 
-# 🔐 REPOSITORY HYGIENE
+## 🚀 FUNCTIONAL HIGHLIGHTS
+
+<div align="center">
+
+![Expenses](https://img.shields.io/badge/EXPENSES-Track_Transactions-00B8D4?style=for-the-badge)
+![Budget](https://img.shields.io/badge/BUDGET-Control_Spending-00C853?style=for-the-badge)
+![Analytics](https://img.shields.io/badge/ANALYTICS-Visual_Insights-AA00FF?style=for-the-badge)
+![Currency](https://img.shields.io/badge/CURRENCY-Live_Conversion-FF6D00?style=for-the-badge)
+
+</div>
+
+---
+
+## 🧭 USER JOURNEY
 
 ```text
-.idea/
-.gradle/
-
-build/
-**/build/
-
-local.properties
-
-*.apk
-*.aab
-
-*.jks
-*.keystore
-
-.vscode/
-
-*.log
-*.tmp
-*.temp
+START
+  │
+  ▼
+Open Student Expense Tracker
+  │
+  ▼
+Record Daily Expenses
+  │
+  ├───────────────────────────────┐
+  │                               │
+  ▼                               ▼
+Set Category Budgets        Review Expense History
+  │                               │
+  └──────────────┬────────────────┘
+                 │
+                 ▼
+          Analyze Spending
+                 │
+                 ▼
+      Check Budget Progress
+                 │
+                 ▼
+       Convert LKR Currency
+                 │
+                 ▼
+        Make Better Decisions
 ```
 
 ---
 
-# 🐍 KINETIC CONTRIBUTION SNAKE
+## 🔮 POSSIBLE FUTURE ENHANCEMENTS
+
+Potential future extensions could include:
+
+- User authentication
+- Cloud synchronization
+- Export to PDF or CSV
+- Recurring expense support
+- Savings-goal management
+- Income tracking
+- Dark-mode customization
+- Additional currencies
+- Advanced financial reports
+- Spending notifications
+- Backup and restore
+- Biometric application lock
+- Home-screen widgets
+- Improved accessibility
+- Automated expense categorization
+
+---
+
+## 🎮 DEVELOPER ZONE
 
 <div align="center">
 
-### 💸 THE MONEY SNAKE IS HUNGRY FOR COMMITS 💸
+### ⚡ CODE • BUILD • TEST • IMPROVE ⚡
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahamed369/Student-Expense-Tracker/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahamed369/Student-Expense-Tracker/output/github-contribution-grid-snake.svg">
-  <img alt="Ahamed contribution snake" src="https://raw.githubusercontent.com/Ahamed369/Student-Expense-Tracker/output/github-contribution-grid-snake.svg">
-</picture>
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                 STUDENT EXPENSE TRACKER                      ║
+║                                                              ║
+║             [ JAVA ] [ ANDROID ] [ SQLITE ]                  ║
+║          [ RETROFIT ] [ APIs ] [ ANALYTICS ]                 ║
+║                                                              ║
+║                   SYSTEM STATUS                              ║
+║                                                              ║
+║        EXPENSE ENGINE        ████████████████████             ║
+║        BUDGET ENGINE         ████████████████████             ║
+║        ANALYTICS ENGINE      ████████████████████             ║
+║        CURRENCY ENGINE       ████████████████████             ║
+║                                                              ║
+║                    BUILD: READY                              ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+### 🕹️ MINI TERMINAL
+
+```text
+> boot student-expense-tracker
+
+[████████████████████] 100%
+
+> loading expense module............. OK
+> loading budget module.............. OK
+> loading analytics module........... OK
+> loading currency module............ OK
+> connecting financial tools......... OK
+
+SYSTEM READY ✓
+```
+
+</div>
+
+---
+
+## 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ahamed369/Ahamed369/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
+
+</div>
+
+> **Note:** The snake above requires the `github-contribution-grid-snake` workflow in the `Ahamed369/Ahamed369` profile repository. If that workflow is not enabled, remove this section to avoid a broken image.
+
+---
+
+## 📈 GITHUB ACTIVITY
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahamed369&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="Ahamed GitHub statistics" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahamed369&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Ahamed top languages" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=17&duration=1200&pause=350&color=00FF88&center=true&vCenter=true&repeat=true&width=950&height=45&lines=🐍+CODE+→+COMMIT+→+CONTRIBUTE+→+GROW;💰+EVERY+COMMIT+BUILDS+THE+GRID;✨+KEEP+THE+SNAKE+MOVING" alt="Snake typing animation"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahamed369&theme=tokyonight&hide_border=true&border_radius=12" alt="Ahamed GitHub streak" />
 
 </div>
 
-> The snake becomes visible after the GitHub Actions workflow successfully generates the `output` branch.
-
 ---
 
-# 📡 LIVE REPOSITORY PULSE
+## 👨‍💻 DEVELOPER
 
 <div align="center">
 
-![Stars](https://img.shields.io/github/stars/Ahamed369/Student-Expense-Tracker?style=for-the-badge&logo=github&label=STARS&color=FFD600)
+### Mr.Ahamed
 
-![Forks](https://img.shields.io/github/forks/Ahamed369/Student-Expense-Tracker?style=for-the-badge&logo=github&label=FORKS&color=00E5FF)
+**Computer Science Undergraduate • Full-Stack & Mobile Application Developer • Entrepreneur**
 
-![Watchers](https://img.shields.io/github/watchers/Ahamed369/Student-Expense-Tracker?style=for-the-badge&logo=github&label=WATCHERS&color=FF4081)
+<br/>
 
-![Repo Size](https://img.shields.io/github/repo-size/Ahamed369/Student-Expense-Tracker?style=for-the-badge&logo=github&label=REPO%20SIZE&color=7C4DFF)
+[![GitHub](https://img.shields.io/badge/GitHub-Ahamed369-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahamed369)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mr.Ahamed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-ahamed-6146a5276)
 
-![Last Commit](https://img.shields.io/github/last-commit/Ahamed369/Student-Expense-Tracker?style=for-the-badge&logo=git&label=LAST%20COMMIT&color=00C853)
+<br/>
 
-![Commit Activity](https://img.shields.io/github/commit-activity/m/Ahamed369/Student-Expense-Tracker?style=for-the-badge&logo=git&label=MONTHLY%20COMMITS&color=FF6D00)
-
-</div>
-
----
-
-# 💎 PROJECT VALUE MATRIX
-
-<div align="center">
-
-| 💸 Finance | 📊 Data | 📱 Mobile | 🌐 Network |
-|:---:|:---:|:---:|:---:|
-| Expense Tracking | Analytics | Android UI | REST APIs |
-| Budget Control | Pie Charts | Material Design | Retrofit |
-| Currency Conversion | Bar Charts | RecyclerView | JSON |
-| Spending Insight | Trends | Fragments | OkHttp |
+> Building practical digital products through software development, mobile technology, UI/UX thinking, and entrepreneurship.
 
 </div>
 
 ---
 
-# 🤝 CONTRIBUTING
+## 🤝 CONTRIBUTING
+
+Suggestions and improvements are welcome.
 
 ```bash
+# Fork the repository
+
+# Create a feature branch
 git checkout -b feature/your-feature
 
+# Stage changes
 git add .
 
+# Commit changes
 git commit -m "Add your feature"
 
+# Push the branch
 git push origin feature/your-feature
 ```
 
-Then create a Pull Request.
+Then open a Pull Request on GitHub.
 
 ---
 
-# 👨‍💻 DEVELOPER
+## ⭐ SUPPORT THE PROJECT
+
+If you find the project useful or interesting:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=1500&pause=400&color=00E5FF&center=true&vCenter=true&repeat=true&width=950&height=50&lines=MR.AHAMED;COMPUTER+SCIENCE+UNDERGRADUATE;FULL-STACK+%26+MOBILE+APP+DEVELOPER;ENTREPRENEUR+•+BUILDER+•+CREATOR" alt="Developer typing animation"/>
+### ⭐ STAR THE REPOSITORY
 
-## MR.AHAMED
+### 🍴 FORK IT
 
-### Computer Science Undergraduate
-### Full-Stack & Mobile Application Developer
-### Entrepreneur
+### 🧑‍💻 EXPLORE THE CODE
 
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GITHUB-AHAMED369-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahamed369)
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-MR.AHAMED-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-ahamed-6146a5276)
+### 🚀 BUILD SOMETHING BETTER
 
 <br/>
 
-![Full Stack](https://img.shields.io/badge/FULL--STACK-DEVELOPER-00B0FF?style=for-the-badge)
-![Mobile](https://img.shields.io/badge/MOBILE-APP_DEVELOPER-00E676?style=for-the-badge)
-![UIUX](https://img.shields.io/badge/UI%2FUX-DESIGN-FF4081?style=for-the-badge)
-![Security](https://img.shields.io/badge/CYBER-SECURITY-7C4DFF?style=for-the-badge)
-![Entrepreneur](https://img.shields.io/badge/ENTREPRENEUR-BUILDER-FF6D00?style=for-the-badge)
-
-<br/>
-
-> **Building practical digital products through software engineering, mobile technology, design thinking, and entrepreneurship.**
+[![GitHub stars](https://img.shields.io/github/stars/Ahamed369/Student-Expense-Tracker?style=for-the-badge&logo=github&label=Stars)](https://github.com/Ahamed369/Student-Expense-Tracker/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Ahamed369/Student-Expense-Tracker?style=for-the-badge&logo=github&label=Forks)](https://github.com/Ahamed369/Student-Expense-Tracker/forks)
 
 </div>
 
 ---
 
-# 📌 PROJECT INFORMATION
+## 📌 REPOSITORY INFORMATION
 
 ```text
-╔════════════════════════════════════════════════════════════════╗
-║                     PROJECT INFORMATION                        ║
-╠════════════════════════════════════════════════════════════════╣
-║                                                                ║
-║ Project      : Student Expense Tracker                         ║
-║ Repository   : Student-Expense-Tracker                         ║
-║ Owner        : Ahamed369                                       ║
-║ Developer    : Mr.Ahamed                                       ║
-║                                                                ║
-║ Platform     : Android                                         ║
-║ Language     : Java                                            ║
-║ Interface    : XML + Material Components                       ║
-║ Database     : SQLite                                          ║
-║ Networking   : Retrofit + OkHttp                               ║
-║ JSON         : Gson                                            ║
-║ Charts       : MPAndroidChart                                  ║
-║                                                                ║
-║ Version      : 1.0                                             ║
-║ Branch       : main                                            ║
-║ Min SDK      : 24                                              ║
-║ Target SDK   : 34                                              ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
+Repository : Student-Expense-Tracker
+Owner      : Ahamed369
+Developer  : Mr.Ahamed
+Platform   : Android
+Language   : Java
+UI         : XML + Material Components
+Database   : SQLite
+Networking : Retrofit + OkHttp
+Parsing    : Gson
+Charts     : MPAndroidChart
+Version    : 1.0
+Branch     : main
 ```
 
 ---
 
 <div align="center">
 
-# 💰 MONEY • DATA • CONTROL
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=23&duration=1400&pause=350&color=00E5FF&center=true&vCenter=true&repeat=true&width=1000&height=50&lines=💸+TRACK+SMARTER;💰+BUDGET+BETTER;🥧+VISUALIZE+SPENDING;📊+ANALYZE+EVERY+CATEGORY;📈+UNDERSTAND+YOUR+FINANCIAL+PATTERNS;💱+CONNECT+YOUR+MONEY+TO+THE+WORLD" alt="Final money animation"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=18&duration=1000&pause=250&color=FF4ECD&center=true&vCenter=true&repeat=true&width=950&height=45&lines=JAVA+✦+ANDROID+✦+SQLITE+✦+RETROFIT;FINANCE+✦+DATA+✦+DESIGN+✦+ENGINEERING;BUILD+✦+ANALYZE+✦+IMPROVE+✦+REPEAT" alt="Final technology animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=7C4DFF&center=true&vCenter=true&repeat=true&width=850&lines=Track+Smarter+%E2%80%A2+Spend+Smarter+%E2%80%A2+Build+Smarter;From+Daily+Expenses+to+Financial+Insights;Student+Expense+Tracker+%E2%80%A2+Built+with+Java+%26+Android" alt="Footer typing animation" />
 
 <br/>
 
-# ⭐ SUPPORT THE PROJECT
-
-![Star](https://img.shields.io/badge/⭐_STAR-THE_PROJECT-FFD600?style=for-the-badge)
-![Fork](https://img.shields.io/badge/🍴_FORK-THE_REPOSITORY-00E5FF?style=for-the-badge)
-![Explore](https://img.shields.io/badge/💻_EXPLORE-THE_CODE-7C4DFF?style=for-the-badge)
-![Build](https://img.shields.io/badge/💰_BUILD-SMARTER_FINANCE-00E676?style=for-the-badge)
-
-<br/><br/>
-
-### 💵 💴 💶 💷 💸 💰 💳 📊 📈 💱
-
-# STUDENT EXPENSE TRACKER
-
-### TRACK SMARTER • BUDGET BETTER • UNDERSTAND MORE
-
-![Java](https://img.shields.io/badge/MADE_WITH-JAVA-FF6D00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/BUILT_FOR-ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Finance](https://img.shields.io/badge/BUILT_FOR-SMART_FINANCE-00C853?style=for-the-badge)
-![Passion](https://img.shields.io/badge/BUILT_WITH-PASSION-FF1744?style=for-the-badge)
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=17&duration=1300&pause=350&color=FFD700&center=true&vCenter=true&repeat=true&width=900&height=45&lines=💰+YOUR+MONEY;📊+YOUR+DATA;🧠+YOUR+DECISIONS;✨+YOUR+CONTROL" alt="Closing animation"/>
-
-<br/>
+### 💸 STUDENT EXPENSE TRACKER
 
 **Designed & Developed by Mr.Ahamed**
+
+<br/>
+
+![Made with Java](https://img.shields.io/badge/Made_with-Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
+![Built for Android](https://img.shields.io/badge/Built_for-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Built with Passion](https://img.shields.io/badge/Built_with-Passion-FF1744?style=for-the-badge&logo=heart&logoColor=white)
+
+<br/>
 
 **© 2026 Mr.Ahamed**
 
