@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Student Expense Tracker</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_expenses">Expenses</string>
+    <string name="nav_budget">Budget</string>
+    <string name="nav_analytics">Analytics</string>
+    <string name="nav_currency">Currency</string>
+
+    <!-- Expense Fragment -->
+    <string name="total_spent">Total Spent</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="no_expenses">No expenses yet.\nTap ＋ to add your first expense!</string>
+
+    <!-- Budget Fragment -->
+    <string name="set_budget">Set Budget</string>
+    <string name="total_budget">Total Budget</string>
+    <string name="total_spent_label">Total Spent</string>
+    <string name="remaining">Remaining</string>
+
+    <!-- Analytics Fragment -->
+    <string name="analytics_title">Spending Analytics</string>
+    <string name="filter_week">This Week</string>
+    <string name="filter_month">This Month</string>
+    <string name="filter_all">All Time</string>
+
+    <!-- Currency Fragment -->
+    <string name="currency_title">Currency Converter</string>
+    <string name="lkr_hint">Enter amount in LKR</string>
+    <string name="btn_convert">Convert</string>
+    <string name="offline_note">Using cached rates (offline)</string>
+
+    <!-- Dialogs -->
+    <string name="label_expense_title">Expense Title *</string>
+    <string name="hint_expense_title">e.g. Lunch at canteen</string>
+    <string name="label_amount">Amount (LKR) *</string>
+    <string name="hint_amount">0.00</string>
+    <string name="label_category">Category *</string>
+    <string name="label_date">Date *</string>
+    <string name="btn_select_date">Select Date</string>
+    <string name="label_notes">Notes (optional)</string>
+    <string name="hint_notes">Any additional notes…</string>
+</resources>

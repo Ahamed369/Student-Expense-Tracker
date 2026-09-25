@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ic_launcher_foreground.xml — App launcher icon foreground (wallet/money symbol)
+     Used by adaptive icon on API 26+ -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer wallet body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,38 Q30,32 36,32 L72,32 Q78,32 78,38 L78,70 Q78,76 72,76 L36,76 Q30,76 30,70 Z" />
+
+    <!-- Wallet pocket -->
+    <path
+        android:fillColor="#00BFA5"
+        android:pathData="M60,50 Q60,46 64,46 L76,46 L76,62 L64,62 Q60,62 60,58 Z" />
+
+    <!-- Coin dot in pocket -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M68,54 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0" />
+
+    <!-- Card lines on wallet face -->
+    <path
+        android:fillColor="#1E3A5F"
+        android:pathData="M36,44 L54,44"
+        android:strokeWidth="2"
+        android:strokeColor="#1E3A5F" />
+    <path
+        android:fillColor="#1E3A5F"
+        android:pathData="M36,50 L50,50"
+        android:strokeWidth="2"
+        android:strokeColor="#1E3A5F" />
+
+</vector>

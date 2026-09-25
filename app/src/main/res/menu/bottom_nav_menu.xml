@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    bottom_nav_menu.xml
+    Defines the 4 tabs in the BottomNavigationView.
+    Each tab corresponds to one group member's function.
+-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Function 1: Expense Management -->
+    <item
+        android:id="@+id/nav_expenses"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="@string/nav_expenses" />
+
+    <!-- Function 2: Budget Management -->
+    <item
+        android:id="@+id/nav_budget"
+        android:icon="@android:drawable/ic_menu_my_calendar"
+        android:title="@string/nav_budget" />
+
+    <!-- Function 3: Analytics & Reports -->
+    <item
+        android:id="@+id/nav_analytics"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="@string/nav_analytics" />
+
+    <!-- Function 4: Currency Converter -->
+    <item
+        android:id="@+id/nav_currency"
+        android:icon="@android:drawable/ic_menu_rotate"
+        android:title="@string/nav_currency" />
+
+</menu>

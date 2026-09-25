@@ -1,0 +1,11 @@
+// Project-level build.gradle
+// Repositories are declared in settings.gradle (required for Gradle 7+)
+// Do NOT add repositories here — it conflicts with dependencyResolutionManagement
+
+plugins {
+    id 'com.android.application' version '9.1.1' apply false
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

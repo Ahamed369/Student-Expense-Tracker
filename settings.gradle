@@ -1,0 +1,25 @@
+// settings.gradle
+// If you are using Android Studio Giraffe or later, repositories are defined here instead of build.gradle
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+plugins {
+    id 'org.gradle.toolchains.foojay-resolver-convention' version '1.0.0'
+}
+
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        // JitPack needed for MPAndroidChart
+        maven { url 'https://jitpack.io' }
+    }
+}
+
+rootProject.name = "StudentExpenseTracker"
+include ':app'
